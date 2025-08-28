@@ -23,11 +23,11 @@ cd phishing-link-detector
 
 Install dependencies:
 
-**pip install -r requirements.txt**
+pip install -r requirements.txt
 
 Run the program:
 
-**python phishing_detector.py**
+python phishing_detector.py
 
 
 📖 Usage
