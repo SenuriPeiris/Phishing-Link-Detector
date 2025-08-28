@@ -10,12 +10,7 @@ The tool also provides **safety tips** to help protect against phishing attacks.
 - Detects suspicious URLs with common phishing patterns.  
 - Keeps a history of scanned links.  
 - Provides **protection tips** and ways to avoid phishing.  
-- Beautiful, user-friendly Tkinter interface.  
-
----
-
-## 📸 Screenshot
-*(Add a screenshot of your tool here!)*  
+- Beautiful, user-friendly Tkinter interface.   
 
 ---
 
@@ -28,11 +23,12 @@ cd phishing-link-detector
 
 Install dependencies:
 
-pip install -r requirements.txt
+**pip install -r requirements.txt**
 
 Run the program:
 
-python phishing_detector.py
+**python phishing_detector.py**
+
 
 📖 Usage
 
