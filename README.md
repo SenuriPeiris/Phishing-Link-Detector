@@ -34,7 +34,7 @@ pip install -r requirements.txt
 Run the application
 ```
 python3 phishing_detector.py
-
+```
 📖 Usage
 
 Paste any link into the text box.
@@ -45,7 +45,7 @@ Instantly see if the link is safe or suspicious.
 
 Review the history of scanned links and follow the protection tips shown.
 
-##🛡️ Protection Tips
+🛡️ Protection Tips
 
 ✔ Double-check URLs before clicking.
 ✔ Avoid clicking on shortened links from unknown sources.
