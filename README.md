@@ -18,20 +18,25 @@ The tool also provides **safety tips** to help protect against phishing attacks.
 
 Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/phishing-link-detector.git
+git clone https://github.com/SenuriPeiris/phishing-link-detector.git
 cd phishing-link-detector
-
-Install dependencies:
-
+```
+Create a virtual environment (recommended):
+```
+python3 -m venv venv
+source venv/bin/activate   # On Linux/Mac
+venv\Scripts\activate      # On Windows
+```
+Install dependencies
+```
 pip install -r requirements.txt
-
-Run the program:
-
-python phishing_detector.py
-
-
-📖 Usage
-
+```
+Run the application
+```
+python3 phishing_detector.py
+```
+##📖 Usage
+```
 Paste any link into the text box.
 
 Click Check.
@@ -39,16 +44,14 @@ Click Check.
 Instantly see if the link is safe or suspicious.
 
 Review the history of scanned links and follow the protection tips shown.
-
-🛡️ Protection Tips
-
+```
+##🛡️ Protection Tips
+```
 ✔ Double-check URLs before clicking.
 ✔ Avoid clicking on shortened links from unknown sources.
 ✔ Never share sensitive information via suspicious links.
 ✔ Use strong, unique passwords.
 ✔ Enable two-factor authentication.
-
-🤝 Contributing
 
 Pull requests are welcome! If you’d like to improve the tool, please fork the repo and submit a PR.
 
