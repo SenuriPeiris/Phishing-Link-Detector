@@ -44,17 +44,3 @@ Click Check.
 Instantly see if the link is safe or suspicious.
 
 Review the history of scanned links and follow the protection tips shown.
-
-🛡️ Protection Tips
-
-✔ Double-check URLs before clicking.
-✔ Avoid clicking on shortened links from unknown sources.
-✔ Never share sensitive information via suspicious links.
-✔ Use strong, unique passwords.
-✔ Enable two-factor authentication.
-
-Pull requests are welcome! If you’d like to improve the tool, please fork the repo and submit a PR.
-
-📜 License
-
-MIT License – free to use, modify, and distribute.
